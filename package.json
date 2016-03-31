@@ -16,5 +16,5 @@
     "url": "https://github.com/nxtlvlgg/loopback-timestamp-mixin/issues"
   },
   "homepage": "https://github.com/nxtlvlgg/loopback-timestamp-mixin#readme",
-  "mixinName": "TimeStamp"
+  "mixinName": "Timestamp"
 }
